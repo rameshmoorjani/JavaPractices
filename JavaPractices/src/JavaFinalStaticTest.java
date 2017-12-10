@@ -7,7 +7,7 @@ public class JavaFinalStaticTest {
 	
 	private static final List foo1=new ArrayList();
 	
-	public JavaFinalStaticTest()
+	public JavaFinalStaticTest()  
 	{
 	//	foo= new ArrayList();  
 		
