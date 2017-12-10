@@ -15,7 +15,7 @@ public class CollectionStream {
 		al.add(25);
 		al.add(20);
 		
-		
+		  
 		//al.stream().filter(i->i%2==0).collect(Collectors.toList());
 		//			.filter(line -> !"mkyong".equals(line))  
 		

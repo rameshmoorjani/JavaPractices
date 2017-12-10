@@ -9,7 +9,7 @@ public class JavaFinalStaticTest {
 	
 	public JavaFinalStaticTest()
 	{
-	//	foo= new ArrayList();
+	//	foo= new ArrayList();  
 		
 	//	foo.add("Geeta");
 	}
