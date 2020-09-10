@@ -23,7 +23,10 @@ public class CollectionStream {
 		a1.add(70);  
 		a1.add(80);
 		a1.add(90);
+		a1.add(110);
 		a1.add(100);
+		a1.add(130);
+		a1.add(120);
 		//al.stream().filter(i->i%2==0).collect(Collectors.toList());
 		//			.filter(line -> !"mkyong".equals(line))  
 		
