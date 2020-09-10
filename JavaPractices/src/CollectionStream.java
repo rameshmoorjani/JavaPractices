@@ -17,6 +17,7 @@ public class CollectionStream {
 		a1.add(40);
 		a1.add(45);
 		a1.add(50);
+		a1.add(60);
 		  
 		
 		//al.stream().filter(i->i%2==0).collect(Collectors.toList());
